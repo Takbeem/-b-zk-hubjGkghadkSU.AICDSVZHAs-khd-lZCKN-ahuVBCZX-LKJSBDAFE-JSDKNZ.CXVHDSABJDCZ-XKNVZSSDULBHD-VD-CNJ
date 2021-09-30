@@ -1,2 +1,2 @@
-# -b-zk-hubjGkghadkSU.AICDSVZHAs-khd-lZCKN-ahuVBCZX-LKJSBDAFE-JSDKNZ.CXVHDSABJDCZ-XKNVZSSDULBHD-VD-CNJ
-jb 
+# PRO-C25-SA
+boilerplate code for student activituy
